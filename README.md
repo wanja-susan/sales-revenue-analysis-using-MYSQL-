@@ -2,7 +2,7 @@
 For this project, I had 5 key questions that I had to respond to. The insights would help the stakeholders to:
 
 # Understand Revenue Drivers:
-Identify the top 10 highest revenue-generating products. This would enable the stakeholders to focus marketing efforts, optimize inventory levels, and explore bundling opportunities for these profitable products.
+*Identify the top 10 highest revenue-generating products.* This would enable the stakeholders to focus marketing efforts, optimize inventory levels, and explore bundling opportunities for these profitable products.
 
 # Cater to Regional Demand:
 *Highlight the top 5 highest-selling products in each region.* By showcasing regional preferences, this would assist stakeholders in developing tailored marketing strategies, allocating resources efficiently, and understanding regional demand trends.
