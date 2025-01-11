@@ -1,3 +1,6 @@
+
+![sales](https://github.com/user-attachments/assets/d66ebeb8-ffbc-4a17-aab7-89557a174b70)
+
 ## Strategic decision making using MYSQL
 For this project, I had 5 key questions that I had to respond to. The insights would help the stakeholders to:
 
