@@ -1,4 +1,4 @@
-## sales-revenue-analysis-using-MYSQL
+## Strategic decision making using MYSQL
 For this project, I had 5 key questions that I had to respond to. The insights would help the stakeholders to:
 
 # Understand Revenue Drivers:
